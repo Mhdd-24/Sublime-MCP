@@ -1,7 +1,7 @@
 {
   "name": "@mhdd_24/sublime-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Sublime Text automation: open files, manage sessions, and run the editor from Cursor",
+  "version": "1.0.1",
+  "description": "MCP server for Sublime Text automation on Windows: open files, manage sessions, and run the editor from Cursor",
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
